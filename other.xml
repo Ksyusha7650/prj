@@ -1,0 +1,76 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ANDROID_THEME_HISTORY" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.WIDTH" value="200" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.WIDTH" value="260" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="213" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.WIDTH" value="200" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidEnableDdms" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="ColorChooser.RecentColors" value="181-255-168-255,,,146-255-44-255,,,18-255-196-255" />
+    <property name="ConstraintLayoutPreferenceAutoConnect" value="true" />
+    <property name="ConstraintLayoutPreferenceShowAllConstraints" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP_IN_QUICK_LISTS" value="" />
+    <property name="LOG_FILTER_HISTORY" value="CHEC&#10;CHECK_DATE&#10;CHECK" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="19" />
+    <property name="NlScreenMode" value="BOTH" />
+    <property name="ResourceChooserGridMode" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="WearminApi" value="21" />
+    <property name="android-component-compatibility-check" value="1558553168962" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="0.5" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="C:/sdk&#10;C:/Prj&#10;C:/Games&#10;C:/Users/ксюша/Desktop/test&#10;C:/Users/ксюша/Documents/Adventure of Ted&#10;C:/android-sdk/Calculator4&#10;C:/Users/ксюша&#10;C:/android-sdk/Diary&#10;C:/android-sdk/Calculator2&#10;C:/android-sdk/Calculator1&#10;C:/android-sdk/Calculator&#10;C:/android-sdk/MyApplication90888775334567890&#10;C:/android-sdk&#10;C:/Users/ксюша/.android/studio/installer" />
+    <property name="file.gist.reindex.count" value="37" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="inspector.open.All Attributes" value="true" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="lastTip" value="89" />
+    <property name="newly.installed.api.level" value="19" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:/Prj/app/src/main/res/raw/down.png" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="$USER_HOME$/Pictures/Картинки/960x.jpg&#10;C:/Users/ксюша/Pictures/App/1110-S,6%201111-S%20White.jpg&#10;C:/Users/ксюша/Pictures/App/1110-S" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>

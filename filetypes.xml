@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="yj" type="DTD" />
+      <mapping pattern="maths1" type="DTD" />
+      <mapping pattern="martina-stoessel-hoy-somos-más.mp3" type="PATCH" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping pattern="Maths1" type="XML" />
+    </extensionMap>
+  </component>
+</application>
